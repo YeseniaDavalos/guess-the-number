@@ -29,4 +29,5 @@ def validate_number(number):
         return "Ingresa un número válido"
     return number
 
+
 # Agrega una nueva línea en blanco aquí (presiona Enter)

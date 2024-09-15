@@ -63,6 +63,5 @@ class TestGame(unittest.TestCase):
         mock_comparison.assert_any_call(3, 5)
         mock_comparison.assert_any_call(4, 5)
 
-
 if __name__ == '__main__':
     unittest.main()

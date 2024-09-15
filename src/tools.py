@@ -62,5 +62,4 @@ def end_game(winner, record_list):
     print(f"correcto!! {winner} acertaste el numero")
     print(f"Registro de números {record_list}")  # Esta es la línea final del código
 
-
 # Nueva línea agregada aquí
